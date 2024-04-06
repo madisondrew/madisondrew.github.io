@@ -1,0 +1,41 @@
+body{background-color: #e9ddca;}
+
+h1{color: #443013;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;}
+
+h2{color: #443013;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;}    
+
+
+p1{font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #937c59}
+
+p2{font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #937c59}
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #443013;
+      }
+      
+      li {
+        float: center;
+      }
+      
+      li a {
+        display: block;
+        color: #e9ddca;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }
+      
+      /* Change the link color to #111 (black) on hover */
+      li a:hover {
+        background-color: #937c59;
