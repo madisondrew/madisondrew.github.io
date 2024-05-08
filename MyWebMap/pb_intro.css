@@ -1,0 +1,87 @@
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body{background-color: #d6c7aa;}
+
+h1{color: #443013;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;}
+
+h2{color:#443013;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+
+h3{color:#443013;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+
+p1{color:#3c4627;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:larger;
+}
+
+p3{color:#3c4627;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:larger;
+}
+
+p5{color:#3c4627;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:larger;
+}
+
+p4{color:#3c4627;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+
+p2{color:#3c4627;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+
+
+
+
+img1{ 
+    margin-left: 35px;
+    
+}
+
+
+
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #3c4627;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: center;
+    color: #efd2ae;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #3c4627;
+    color: #fdd0a2
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #3c4627;
+    color: #fdae6b;
+  }
